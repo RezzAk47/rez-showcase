@@ -45,7 +45,17 @@ Independent restaurants and pubs with a few tablets and one kitchen screen. The 
 | ![Menu editor](media/menu-editor.png) | ![Shift report](media/shift-report.png) |
 | Menu editor | Shift report with a daily briefing |
 
-Short video clips are planned: see [media/VIDEO-PLAN.md](media/VIDEO-PLAN.md).
+## Videos
+
+Three short clips (20 to 30 seconds, no sound, captions on screen). They show the demo build with invented data. Select a link to play it on GitHub.
+
+| | |
+|---|---|
+| [![Take an order](media/videos/clip-1-take-an-order-poster.png)](media/videos/clip-1-take-an-order.mp4) | [Take an order](media/videos/clip-1-take-an-order.mp4): tap a table, tap a seat, add dishes, send to the kitchen. |
+| [![Kitchen and allergy alert](media/videos/clip-2-kitchen-allergy-poster.png)](media/videos/clip-2-kitchen-allergy.mp4) | [Kitchen and allergy alert](media/videos/clip-2-kitchen-allergy.mp4): mark an allergy, see the red alert on the kitchen screen, Fire, Ready, Bump. |
+| [![Split the check and pay](media/videos/clip-3-split-and-pay-poster.png)](media/videos/clip-3-split-and-pay.mp4) | [Split the check and pay](media/videos/clip-3-split-and-pay.mp4): one check per seat, cash with change, or split evenly. Demo: no card is charged. |
+
+How they were made: see [media/VIDEO-PLAN.md](media/VIDEO-PLAN.md).
 
 ## Contact
 

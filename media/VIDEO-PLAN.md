@@ -1,6 +1,8 @@
 # Video plan: 3 short clips
 
-No video has been recorded. Each clip is 20 to 30 seconds, square (1080x1080) or 4:5, with captions burned in and no voice needed. Record from the demo build only.
+The three clips are recorded (media/videos/). Each is 20 to 30 seconds, 1280x720 landscape, H.264 MP4 under 1 MB, with captions burned in, no voice and no music. They come from the demo build only.
+
+How they were recorded: a script drove the demo build in a headless Chrome page (real clicks, no browser window, address bar or bookmarks in the picture) with a fresh throwaway data folder, the Premium plan and the invented pub menu. The page was captured frame by frame at 1280x664, a caption strip was added below it with ffmpeg, and the files were exported with all metadata removed. Frames were checked every 2 seconds for real data. The recording script is private and is not in this repo.
 
 ## Sample-data setup (all clips)
 - Fresh data folder, invented pub menu, REZ_PLAN=premium, "Demo payments" tag visible.
