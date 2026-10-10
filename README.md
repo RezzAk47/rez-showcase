@@ -51,6 +51,10 @@ Short video clips are planned: see [media/VIDEO-PLAN.md](media/VIDEO-PLAN.md).
 
 Razi Karimi, Vancouver. rzk.karimi@gmail.com
 
+## Notices
+
+ReZ is an independent project by Razi Karimi. It is not affiliated with or endorsed by Stripe or any other company named here; their names are trademarks of their owners and appear only to describe what ReZ works with. The screenshots show ReZ's own interface with invented sample data and contain no third-party images, logos or photos.
+
 ## Licence
 
 Text and images here are all rights reserved. See [LICENSE](LICENSE). The ReZ source code is not part of this repo.

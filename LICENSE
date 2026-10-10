@@ -8,4 +8,11 @@ written permission.
 "ReZ" and the ReZ POS name and design are not licensed by this repository.
 The ReZ source code is private and is not included here.
 
+The screenshots show only the ReZ interface and invented sample data (an
+invented pub, made-up dishes, prices and staff names). They contain no
+third-party photographs, logos or icon sets. Third-party names mentioned in the
+README (for example Stripe) are trademarks of their owners; they are used only
+to describe what ReZ works with, and this repository is not affiliated with or
+endorsed by them.
+
 Contact: rzk.karimi@gmail.com
