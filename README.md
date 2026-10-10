@@ -21,7 +21,7 @@ Independent restaurants and pubs with a few tablets and one kitchen screen. The 
 - Staff sign-in with 4-digit codes, tablet pairing, manager and server roles checked by the server.
 - A menu editor, tip-out rules, a time clock, shift reports and printable receipts.
 - Works offline on a tablet and sends orders when the server is back.
-- Plans (from the project website): ReZ Free for up to 3 tablets and 1 kitchen screen, and ReZ Premium at $69 per month CAD with everything included. Prices are drafts and may change.
+- Planned tiers: a free tier for a small setup (up to 3 tablets and 1 kitchen screen) and a paid tier with everything included. Pricing on request; nothing is final.
 
 ## What it does not do yet
 
@@ -52,8 +52,8 @@ Three short clips (20 to 30 seconds, no sound, captions on screen). They show th
 | | |
 |---|---|
 | [![Take an order](media/videos/clip-1-take-an-order-poster.png)](media/videos/clip-1-take-an-order.mp4) | [Take an order](media/videos/clip-1-take-an-order.mp4): tap a table, tap a seat, add dishes, send to the kitchen. |
-| [![Kitchen and allergy alert](media/videos/clip-2-kitchen-allergy-poster.png)](media/videos/clip-2-kitchen-allergy.mp4) | [Kitchen and allergy alert](media/videos/clip-2-kitchen-allergy.mp4): mark an allergy, see the red alert on the kitchen screen, Fire, Ready, Bump. |
-| [![Split the check and pay](media/videos/clip-3-split-and-pay-poster.png)](media/videos/clip-3-split-and-pay.mp4) | [Split the check and pay](media/videos/clip-3-split-and-pay.mp4): one check per seat, cash with change, or split evenly. Demo: no card is charged. |
+| [![Kitchen and allergy alert](media/videos/clip-2-kitchen-allergy-poster.png)](media/videos/clip-2-kitchen-allergy.mp4) | [Kitchen and allergy alert](media/videos/clip-2-kitchen-allergy.mp4): mark an allergy, see the red alert on the kitchen screen, Fire, Ready, Bump, and watch the tablet update. |
+| [![Split the check and pay](media/videos/clip-3-split-and-pay-poster.png)](media/videos/clip-3-split-and-pay.mp4) | [Split the check and pay](media/videos/clip-3-split-and-pay.mp4): one check per seat, cash with change, then split evenly and pay guest by guest. Demo: no card is charged. |
 
 How they were made: see [media/VIDEO-PLAN.md](media/VIDEO-PLAN.md).
 
