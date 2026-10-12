@@ -2,13 +2,15 @@
 
 ReZ is a point-of-sale system for table-service restaurants. It runs in a web browser on tablets and a kitchen screen. It is built for small independent restaurants that want seat-by-seat ordering without buying expensive hardware.
 
-**The source code is private.** This repo has screenshots and text only. For a demo, email rzk.karimi@gmail.com.
+**The source code is private.** This repo has screenshots, three short demo videos and text only. For a demo, email rzk.karimi@gmail.com.
 
 All screenshots show demo data: an invented Canadian pub menu, made-up dishes and prices, and made-up staff names. No real restaurant, guest or payment is shown. ReZ is a demo build: it does not take real card payments yet.
 
 ## Who it is for
 
 Independent restaurants and pubs with a few tablets and one kitchen screen. The first market is Vancouver.
+
+Planned tiers: a free tier for a small setup (up to 3 tablets and 1 kitchen screen) and a paid tier with everything included. Pricing on request; nothing is final.
 
 ## What it does
 
@@ -21,7 +23,6 @@ Independent restaurants and pubs with a few tablets and one kitchen screen. The 
 - Staff sign-in with 4-digit codes, tablet pairing, manager and server roles checked by the server.
 - A menu editor, tip-out rules, a time clock, shift reports and printable receipts.
 - Works offline on a tablet and sends orders when the server is back.
-- Planned tiers: a free tier for a small setup (up to 3 tablets and 1 kitchen screen) and a paid tier with everything included. Pricing on request; nothing is final.
 
 ## What it does not do yet
 
@@ -47,7 +48,7 @@ Independent restaurants and pubs with a few tablets and one kitchen screen. The 
 
 ## Videos
 
-Three short clips (20 to 30 seconds, no sound, captions on screen). They show the demo build with invented data. Select a link to play it on GitHub.
+Three short clips (20 to 30 seconds, no sound, captions on screen). They show the demo build with invented data. Select a clip to open it on GitHub; if it does not play in the page, use the download button (MP4, under 1 MB each).
 
 | | |
 |---|---|
@@ -55,7 +56,7 @@ Three short clips (20 to 30 seconds, no sound, captions on screen). They show th
 | [![Kitchen and allergy alert](media/videos/clip-2-kitchen-allergy-poster.png)](media/videos/clip-2-kitchen-allergy.mp4) | [Kitchen and allergy alert](media/videos/clip-2-kitchen-allergy.mp4): mark an allergy, see the red alert on the kitchen screen, Fire, Ready, Bump, and watch the tablet update. |
 | [![Split the check and pay](media/videos/clip-3-split-and-pay-poster.png)](media/videos/clip-3-split-and-pay.mp4) | [Split the check and pay](media/videos/clip-3-split-and-pay.mp4): one check per seat, cash with change, then split evenly and pay guest by guest. Demo: no card is charged. |
 
-How they were made: see [media/VIDEO-PLAN.md](media/VIDEO-PLAN.md).
+How they were made and the captions in each clip: [media/VIDEO-PLAN.md](media/VIDEO-PLAN.md).
 
 ## Contact
 
